@@ -1,0 +1,12 @@
+*.pro
+*.pro.user
+*.pro.user*
+build*
+build-*
+*.o
+*.so
+*.a
+*.so.*
+result.txt
+experiments_bash/results
+imgui.ini
